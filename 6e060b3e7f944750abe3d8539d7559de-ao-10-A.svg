@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="495">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <ellipse ry="14.375" rx="21.25" id="6e060b3e7f944750abe3d8539d7559de-ao-1" cy="66.25" cx="79.375" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="6e060b3e7f944750abe3d8539d7559de-ao-2" ry="14.375" rx="21.25" cy="322.5" cx="316.25" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="6e060b3e7f944750abe3d8539d7559de-ao-3" height="26.25" width="81.875" y="58.75" x="246.875" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#7fff00"/>
+  <rect id="6e060b3e7f944750abe3d8539d7559de-ao-4" height="30.625" width="77.5" y="310.625" x="17.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#7fff00"/>
+  <rect stroke="#2D2D2D" transform="rotate(41.45523452758789 185.91941833496094,200.02047729492188) " id="6e060b3e7f944750abe3d8539d7559de-ao-5" height="13.52886" width="63.125" y="193.25605" x="154.35691" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffff00"/>
+  <rect id="6e060b3e7f944750abe3d8539d7559de-ao-6" stroke="#2D2D2D" transform="rotate(41.45523452758789 160.625,201.875) " height="13.52886" width="63.125" y="195.11057" x="129.0625" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffff00"/>
+  <rect id="6e060b3e7f944750abe3d8539d7559de-ao-7" stroke="#2D2D2D" transform="rotate(41.45523452758789 133.75000000000003,201.875) " height="13.52886" width="63.125" y="195.11057" x="102.1875" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffff00"/>
+  <rect id="6e060b3e7f944750abe3d8539d7559de-ao-8" stroke="#2D2D2D" transform="rotate(41.45523452758789 232.5,462.50000000000006) " height="13.52886" width="63.125" y="455.73557" x="200.9375" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffff00"/>
+  <rect id="6e060b3e7f944750abe3d8539d7559de-ao-9" stroke="#2D2D2D" transform="rotate(41.45523452758789 207.4999999999998,463.75000000000006) " height="13.52886" width="63.125" y="456.98557" x="175.9375" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffff00"/>
+  
+ </g>
+</svg>

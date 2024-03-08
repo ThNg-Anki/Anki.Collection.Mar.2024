@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1308" height="340">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="094e4a577a59460288234d19aa0ee4d6-oa-1" height="51.49254" width="116.41791" y="73.43283" x="85.28361" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="094e4a577a59460288234d19aa0ee4d6-oa-2" height="51.49254" width="116.41791" y="49.1791" x="309.91044" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="094e4a577a59460288234d19aa0ee4d6-oa-3" height="51.49254" width="116.41791" y="47.68657" x="534.53731" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="094e4a577a59460288234d19aa0ee4d6-oa-4" height="51.49254" width="116.41791" y="43.95522" x="763.64181" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect id="094e4a577a59460288234d19aa0ee4d6-oa-5" height="51.49254" width="116.41791" y="45.44776" x="974.08956" stroke="#2D2D2D" fill="#ff7f00"/>
+  <rect stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-6" height="51.49254" width="105.97016" y="41.71641" x="1193.49254" fill="#ff7f00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-7" ry="14.1791" rx="67.16418" cy="145.07462" cx="152.44778" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-8" ry="13.0597" rx="63.43284" cy="144.7015" cx="347.22386" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-9" ry="11.9403" rx="44.02985" cy="169.32836" cx="274.83582" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-10" ry="10.07463" rx="22.38806" cy="193.95522" cx="282.29849" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-11" ry="10.8209" rx="49.62686" cy="144.32837" cx="608.04476" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-12" ry="10.44776" rx="46.26865" cy="167.08955" cx="584.16423" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-13" ry="12.68657" rx="61.56716" cy="143.58208" cx="752.07464" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse id="094e4a577a59460288234d19aa0ee4d6-oa-14" stroke="#2D2D2D" ry="12.68657" rx="61.56716" cy="219.70149" cx="781.55221" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-15" ry="16.04478" rx="69.40298" cy="217.08956" cx="1019.98509" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+  <ellipse stroke="#2D2D2D" id="094e4a577a59460288234d19aa0ee4d6-oa-16" ry="19.02985" rx="91.41789" cy="249.55224" cx="999.83576" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#00ff00"/>
+ </g>
+</svg>
